@@ -1,0 +1,21 @@
+day = 3
+
+temp = -2
+
+weight = 72.6
+
+print(day + 3)
+
+print(weight * 2)
+
+print(weight/2)
+
+dogs = 2 
+
+sleepduration = 7.6
+
+print(dogs * 3)
+
+print(sleepduration/2)
+
+# Built in Python
