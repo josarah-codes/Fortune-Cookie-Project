@@ -1,0 +1,13 @@
+wallet = 131
+
+print(wallet)
+
+wallet = 122
+
+print(wallet)
+
+day = 3 
+
+print (day)
+
+# Built in Python
