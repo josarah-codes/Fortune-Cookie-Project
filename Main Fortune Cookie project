@@ -15,4 +15,4 @@ if fortune_number == 3:
 
 print(f"{fortune_text} Your Lucky Number is: {lucky_number} ")
 
-#Consolidated learning of all experiments
+#This was my first ever project and consolidated learning from all experiments included in this repository
