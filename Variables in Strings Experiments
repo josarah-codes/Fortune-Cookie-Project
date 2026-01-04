@@ -1,0 +1,8 @@
+day = 3
+month = 'January'
+temp = -3
+day_name = 'saturday'
+
+print (f"Today is {day_name} {month} {day} and it's {temp} degrees outside")
+
+#Built in Python
