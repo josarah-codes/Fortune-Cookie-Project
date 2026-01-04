@@ -1,0 +1,14 @@
+day = 3
+weight = 72.6
+month = 'January'
+
+light_is_on = True
+heating_is_on = False
+heating_is_off = True
+
+if light_is_on: 
+    print("The light is on!")
+    print("Now get to work!")
+    
+if heating_is_off:
+    print("Don't be stingy!")
