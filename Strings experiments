@@ -1,0 +1,20 @@
+age = 26
+weight = 72.26
+
+shirt = "red" 
+
+print(shirt)
+
+trousers = 'blue'
+
+print(trousers)
+
+store = "JoAnn\'s Vintage, the 'best' there is"
+
+print(store)
+
+movie = "The Wind That Shakes The Barley"
+
+print(movie)
+
+#Built in Python
